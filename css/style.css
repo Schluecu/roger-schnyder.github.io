@@ -222,6 +222,16 @@ r:hover {
     overflow:scroll;
 }
 
+[id^=bild]:checked + label > .beispiel {
+    width:80vw;
+    height:auto;
+    object-fit:fill;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    overflow:scroll;
+}
+
 [id^=bild]:checked ~ .caption {
     visibility:visible;
     height:auto;

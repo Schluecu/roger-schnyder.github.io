@@ -223,7 +223,7 @@ r:hover {
 }
 
 [id^=bild]:checked + label > .beispiel {
-    width:80vw;
+    width:60vw;
     height:auto;
     object-fit:fill;
     display: flex;

@@ -192,6 +192,14 @@ r:hover {
     padding-bottom: 3vh;
 }
 
+.beispiel {
+	margin:0;
+	padding:0;
+	width:15vw;
+	height:15vw;
+	cursor:default;
+}
+
 .objekt {
     object-fit:fill;
     height:auto;

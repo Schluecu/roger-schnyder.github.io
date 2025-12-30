@@ -193,10 +193,7 @@ r:hover {
 }
 
 .beispiel {
-	margin:0;
-	padding:0;
-	width:15vw;
-	height:15vw;
+	padding-bottom:2vw;
 	cursor:default;
 }
 

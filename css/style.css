@@ -106,6 +106,7 @@ r:hover {
 
 .bild {
     object-fit: cover;
+	overflow:hidden;
     display:inline;
     align-items:start;
 }

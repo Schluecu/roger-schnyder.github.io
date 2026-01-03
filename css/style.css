@@ -3,14 +3,16 @@
     src: url("https://roger-schnyder.com/font/DINPro.woff");
 }
 
-@media (prefers-color-scheme: dark) {
+/*@media (prefers-color-scheme: dark) {
 body {color:gainsboro; background-color:#383838;}
 }
 @media (prefers-color-scheme: light) {
 body {color:black; background-color:lightgray;}
-}
+}*/
 
 body {
+	color:black;
+	background-color:lightgray;
     text-wrap:wrap;
     line-break:strict;
     -webkit-user-select: none;

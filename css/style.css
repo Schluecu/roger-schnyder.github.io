@@ -19,7 +19,7 @@ body {
     font-family: "DINPro";
     font-size: clamp(12.5pt, 1vmax, 1vw);
     line-height: 1.3;
-	scroll-behaviour:smooth;
+	scroll-behavior:smooth;
 }
 
 #yes {

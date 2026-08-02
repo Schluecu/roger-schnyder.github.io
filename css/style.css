@@ -221,8 +221,7 @@ r:hover {
 	max-height:150vh;
     object-fit:contain;
     display: flex;
-    justify-content: start;
-    align-items: center;
+    object-position: left center;
     overflow:scroll;
 }
 

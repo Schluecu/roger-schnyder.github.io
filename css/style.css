@@ -219,7 +219,7 @@ r:hover {
     width:80vw;
     height:auto;
 	max-height:150vh;
-    object-fit:fill;
+    object-fit:contain;
     display: flex;
     justify-content: center;
     align-items: center;

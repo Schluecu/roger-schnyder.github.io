@@ -218,6 +218,7 @@ r:hover {
 [id^=bild]:checked + label > img {
     width:80vw;
     height:auto;
+	max-height:150vh;
     object-fit:fill;
     display: flex;
     justify-content: center;
